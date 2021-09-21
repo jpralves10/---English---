@@ -6,7 +6,6 @@
 
 Verbo     | Tradução | Simple Past | Past Participle | Exemplo
 ----------|----------|-------------|-----------------|--------
-To be|	1. ser; 2. estar|	was; were|	been|	1. I was really tired. 2. They were my teachers.
 To allow|	permitir, autorizar|	allowed|	allowed|	Smoking is not allowed here.
 To add|	adicionar|	added|	added|	She added him on Facebook.
 To appear|	aparecer|	appeared|	appeared|	They appeared on TV.
@@ -97,6 +96,7 @@ To want|	querer|	wanted|	wanted|	We wanted to visit Kelly.
 To watch|	assistir|	watched|	watched|	They watched the game at the restaurant.
 To win|	vencer|	won|	won|	I won the lottery.
 To work|	trabalhar|	worked|	worked|	We worked together last year.
+to hurt
 
 ## Verbos Irregulares
 
@@ -110,6 +110,7 @@ Must|	(obrigação) ter que|	x|	x|	You must arrive 2 hours earlier. (Você tem q
 Can|	poder; conseguir|	could|	x|	He could ride a bike when he was 3. (Ele conseguia andar de bicicleta aos 3 anos.)
 Could|	poderia|	x|	x|	I could have traveled to New York if I had the money.
 Should|	deve, deveria|	x|	x|	You should study for the exam.
+To be|	1. ser; 2. estar|	was; were|	been|	1. I was really tired. 2. They were my teachers.
 
 `hurt` ferir, machucar
 `to lift` levantar
