@@ -2,17 +2,10 @@
 
 `each other` uns aos outros
 
-## Verbos
+## Verbos Regulares
 
 Verbo     | Tradução | Simple Past | Past Participle | Exemplo
 ----------|----------|-------------|-----------------|--------
-Will|	indica futuro|	x|	x|	I will travel to Portugal in March. (Viajarei para Portugal em março.)
-Would|	indica possibilidade|	x|	x|	I would travel more if I had the money. (Eu viajaria mais se tivesse dinheiro.)
-May|	(possibilidade) poder|	x|	x|	He may arrive late. (Ele pode chegar atrasado.)
-Might|	(possibilidade) poder|	x|	x|	It might rain tomorrow. (Pode chover amanhã.)
-Must|	(obrigação) ter que|	x|	x|	You must arrive 2 hours earlier. (Você tem que chegar 2 horas antes.)
-Can|	poder; conseguir|	could|	x|	He could ride a bike when he was 3. (Ele conseguia andar de bicicleta aos 3 anos.)
-Could|	poderia|	x|	x|	I could have traveled to New York if I had the money.
 To be|	1. ser; 2. estar|	was; were|	been|	1. I was really tired. 2. They were my teachers.
 To allow|	permitir, autorizar|	allowed|	allowed|	Smoking is not allowed here.
 To add|	adicionar|	added|	added|	She added him on Facebook.
@@ -28,16 +21,16 @@ To call|	1. telefonar; 2. chamar| called|	called|	2. She called her mom to come 
 To change|	mudar, alterar|	changed|	changed|	I changed my vacation destiny.
 To consider|	considerar|	considered|	considered|	I consider him family. 
 To continue|	continuar|	continued|	continued|	She can’t continue with the project.
-To come|	vir|	came|	come|	She came earlier than I thought. (Ela veio mais cedo do que eu pensava.)
+To come|	vir|	came|	come|	She came earlier than I thought. 
 To create|	criar|	created|	created| The company created new jobs for the city.
-To cut|	cortar|	cut|	cut|	He cut the pizza in eight slices. (Ele cortou a pizza em oito fatias.)
-To die|	morrer|	died|	died|	He died in a car accident. (Ele morreu em um acidente de carro.)
-To do|	fazer|	did|	done|	They did a very good job. (Eles fizeram um trabalho muito bom.)
+To cut|	cortar|	cut|	cut|	He cut the pizza in eight slices.
+To die|	morrer|	died|	died|	He died in a car accident. 
+To do|	fazer|	did|	done|	They did a very good job.
 To expect|	esperar|	expected|	expected|	I was expecting his phone call. 
 To fall|	cair|	fell|	fallen|	An orange fell from the tree. 
 To feel|	sentir|	felt|	felt|	I felt really happy with the news.
 To find|	encontrar|	found|	found|	I found the keys under the bed. 
-To fold|	dobrar|	folded|	folded|	Sally folded the sheet. (Sally dobrou o lençol.)
+To fold|	dobrar|	folded|	folded|	Sally folded the sheet. 
 To follow|	1. seguir; 2. acompanhar|	followed|	followed|	1. Jack was followed by a stranger. 2. I have followed their discussion.
 To get|	1. pegar; 2. conseguir|	got|	gotten|	1. Don’t forget to get the keys. 2. She got a new job.
 To give|	dar|	gave|	given|	He gave me flowers everyday.
@@ -82,7 +75,6 @@ To seem|	parecer|	seemed|	seemed|	They seemed happy.
 To send|	enviar|	sent|	sent|	He has sent me a letter. 
 To serve|	servir|	served|	served|	They served wine at the party.
 To set|	1. definir; 2. configurar|	set|	set|	1. The conference is set for this year. 2. I set the alarm for 6 a.m.
-Should|	deve, deveria|	x|	x|	You should study for the exam.
 To show|	mostrar|	showed|	shown|	He showed me how to change a flat tire. 
 To sit|	sentar|	sat|	sat|	She sat next to the window. 
 To speak|	falar|	spoke|	spoken|	He speaks German. 
@@ -106,6 +98,18 @@ To watch|	assistir|	watched|	watched|	They watched the game at the restaurant.
 To win|	vencer|	won|	won|	I won the lottery.
 To work|	trabalhar|	worked|	worked|	We worked together last year.
 
+## Verbos Irregulares
+
+Verbo     | Tradução | Simple Past | Past Participle | Exemplo
+----------|----------|-------------|-----------------|--------
+Will|	indica futuro|	x|	x|	I will travel to Portugal in March. (Viajarei para Portugal em março.)
+Would|	indica possibilidade|	x|	x|	I would travel more if I had the money. (Eu viajaria mais se tivesse dinheiro.)
+May|	(possibilidade) poder|	x|	x|	He may arrive late. (Ele pode chegar atrasado.)
+Might|	(possibilidade) poder|	x|	x|	It might rain tomorrow. (Pode chover amanhã.)
+Must|	(obrigação) ter que|	x|	x|	You must arrive 2 hours earlier. (Você tem que chegar 2 horas antes.)
+Can|	poder; conseguir|	could|	x|	He could ride a bike when he was 3. (Ele conseguia andar de bicicleta aos 3 anos.)
+Could|	poderia|	x|	x|	I could have traveled to New York if I had the money.
+Should|	deve, deveria|	x|	x|	You should study for the exam.
 
 `hurt` ferir, machucar
 `to lift` levantar
