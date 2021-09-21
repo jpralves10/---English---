@@ -6,6 +6,7 @@
 
 `nutty` maluco
 `crazy` louco
+`hurt` ferir, machucar
 
 ## Palavras sem Categoria
 
