@@ -53,6 +53,8 @@ To walk|	caminhar|	walked|	walked|	We walked for 3 hours.
 To want|	querer|	wanted|	wanted|	We wanted to visit Kelly.
 To watch|	assistir|	watched|	watched|	They watched the game at the restaurant.
 To work|	trabalhar|	worked|	worked|	We worked together last year.
+to further| promover| furthered| furthered| He furthered a party to thousands people
+to lift| levantar| lifted| lifted| I lifted 7 o'clock
 
 
 ## Verbos Irregulares
@@ -113,11 +115,15 @@ To understand|	entender|	understood|	understood|	They understood what I was sayi
 To win|	vencer|	won|	won|	I won the lottery.
 to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her 
 
-`hurt` ferir, machucar
-`to lift` levantar
+
 to travel
 to shift
 to pick
+
+
+## Adverbios
+
+`further` mais, além
 
 ## Adjetivos
 
