@@ -116,11 +116,18 @@ to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her
 `hurt` ferir, machucar
 `to lift` levantar
 to travel
+to shift
+to pick
 
 ## Adjetivos
 
 `nutty` maluco
 `crazy` louco
+`willing` disposto
+
+## Substantivos
+
+`pick` escolha
 
 ## Palavras sem Categoria
 
