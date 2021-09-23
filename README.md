@@ -4,11 +4,11 @@
 
 ## Verbos Regulares
 
-Verbo     | Tradução | Simple Past | Past Participle | Exemplo
-----------|----------|-------------|-----------------|--------
-To allow|	permitir, autorizar|	allowed|	allowed|	Smoking is not allowed here.
-To add|	adicionar|	added|	added|	She added him on Facebook.
-To appear|	aparecer|	appeared|	appeared|	They appeared on TV.
+Verbo     | Tradução | Exemplo
+----------|----------|--------
+To allow|	permitir, autorizar|	Smoking is not allowed here.
+To add|	adicionar|  She added him on Facebook.
+To appear|	aparecer|	They appeared on TV.
 To ask|	1. perguntar; 2. pedir|	asked|	asked|	1. He asked my name. 2. She asked him to close the door.
 To believe|	acreditar|	believed|	believed|	I believe our team will win.
 To call|	1. telefonar; 2. chamar| called|	called|	2. She called her mom to come see the puppy.
@@ -135,6 +135,7 @@ to pick
 
 `pick` escolha
 `Tricky` complicado
+`puppy` cachorro
 
 ## Palavras sem Categoria
 
