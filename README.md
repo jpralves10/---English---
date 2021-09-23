@@ -4,58 +4,147 @@
 
 ## Verbos Regulares
 
-Verbo     | Tradução | Exemplo
-----------|----------|--------
-To allow|	permitir, autorizar|	Smoking is not allowed here.
-To add|	adicionar|  She added him on Facebook.
-To appear|	aparecer|	They appeared on TV.
-To ask|	1. perguntar; 2. pedir|	asked|	asked|	1. He asked my name. 2. She asked him to close the door.
-To believe|	acreditar|	believed|	believed|	I believe our team will win.
-To call|	1. telefonar; 2. chamar| called|	called|	2. She called her mom to come see the puppy.
-To change|	mudar, alterar|	changed|	changed|	I changed my vacation destiny.
-To consider|	considerar|	considered|	considered|	I consider him family. 
-To continue|	continuar|	continued|	continued|	She can’t continue with the project.
-To create|	criar|	created|	created| The company created new jobs for the city.
-To die|	morrer|	died|	died|	He died in a car accident. 
-To expect|	esperar|	expected|	expected|	I was expecting his phone call. 
-To fold|	dobrar|	folded|	folded|	Sally folded the sheet. 
-To follow|	1. seguir; 2. acompanhar|	followed|	followed|	1. Jack was followed by a stranger. 2. I have followed their discussion.
-To happen|	acontecer|	happened|	happened|	What happened?
-To help|	ajudar|	helped|	helped|	He used to help his mom with the housework.
-To include|	incluir|	included|	included|	I included his name in the VIP list. 
-To kill|	matar|	killed|	killed|	He was killed in a robbery.
-To lead|	liderar|	led|	led|	Michael used to lead the baseball team.
-To learn|	aprender|	learned|	learned|	He learned how to speak Japanese.
-To like|	gostar|	liked|	liked|	We liked the movie a lot.
-To look|	1. olhar; 2. parecer|	looked|	looked|	1. She looked at her sister and smiled. 2. He looked tired.
-To love|	amar|	loved|	loved|	I love my dog. 
-To move|	1. mover; 2. mudar (de residência)|	moved|	moved|	1. He made his opponent move. 2. We moved to Portugal in March.
-To need|	precisar|	needed|	needed|	They need to buy a bigger car. 
-To offer|	oferecer|	offered|	offered|	He offered me a ride. (Ele me ofereceu carona.)
-To open|	abrir|	opened|	opened| They always leave the door open. (Eles sempre deixam a porta aberta.)
-To play|	1. brincar; 2. jogar|	played|	played|	The kids are playing in the yard. 2. We play basketball every Sunday.
-To provide|	fornecer|	provided|	provided|	The director provided everything that was needed for the project.
-To reach|	alcançar|	reached|	reached|	I am not tall enough to reach that shelf.
-To remain|	continuar, permanecer|	remained|	remained|	I remained alert during the night. 
-To remember|	lembrar|	remembered|	remembered|	Do you remember the time when we fell in love? 
-To seem|	parecer|	seemed|	seemed|	They seemed happy.
-To serve|	servir|	served|	served|	They served wine at the party.
-To show|	mostrar|	showed|	shown|	He showed me how to change a flat tire. 
-To start|	começar|	started|	started|	The game started at 6.
-To stay|	ficar|	stayed|	stayed|	He stayed up late. (Ele ficou acordado até tarde.)
-To stop|	parar|	stopped|	stopped|	They stopped talking when we arrived.
-To talk|	1. falar; 2. conversar|	talked|	talked|	1. She talked to him. 2. They were talking about the accident.
-To try|	1. tentar; 2. experimentar|	tried|	tried|	1. I tried to lift that box but it’s too heavy. 2. Have you tried mashed potatoes with cheese?
-To turn|	virar|	turned|	turned|	He has turned the button to the left.
-To use|	usar|	used|	used|	I used this book to do the research. 
-To wait|	esperar|	waited|	waited|	I waited for him.
-To walk|	caminhar|	walked|	walked|	We walked for 3 hours.
-To want|	querer|	wanted|	wanted|	We wanted to visit Kelly.
-To watch|	assistir|	watched|	watched|	They watched the game at the restaurant.
-To work|	trabalhar|	worked|	worked|	We worked together last year.
-to further| promover| furthered| furthered| He furthered a party to thousands people
-to lift| levantar| lifted| lifted| I lifted 7 o'clock
-to travel| viajar| traveled| traveled| To travel is part of the job
+Verbo     | Tradução 
+----------|----------
+To allow|	permitir, autorizar
+To add|	adicionar
+To appear|	aparecer
+To ask|	1. perguntar; 2. pedir
+To believe|	acreditar
+To call|	telefonar; chamar
+To change|	mudar, alterar
+To consider|	considerar
+To continue|	continuar
+To create|	criar
+To die|	morrer
+To expect|	esperar
+To fold|	dobrar
+To follow|	seguir; acompanhar
+To happen|	acontecer
+To help|	ajudar
+To include|	incluir
+To kill|	matar
+To lead|	liderar
+To learn|	aprender
+To like|	gostar
+To look| olhar; parecer
+To love|	amar
+To move|	mover; mudar (de residência)
+To need|	precisar 
+To offer|	oferecer
+To open|	abrir
+To play| brincar; jogar
+To provide|	fornecer
+To reach|	alcançar
+To remain|	continuar, permanecer
+To remember|	lembrar
+To seem|	parecer
+To serve|	servir
+To show|	mostrar
+To start|	começar
+To stay|	ficar
+To stop|	parar
+To talk| falar; conversar
+To try|	tentar; experimentar
+To turn|  virar
+To use|	usar
+To wait|	esperar
+To walk|	caminhar
+To want|	querer
+To watch|	assistir
+To work|	trabalhar
+to further| promover
+to lift| levantar
+to travel| viajar
+to shift| mudar
+to pick|  escolher
+
+to abash| envergonhar; inferiorizar
+to abate| diminuir
+to abide| acatar; respeitar
+to absorb| absorver
+to accept| aceitar
+to accompany| acompanhar
+to ache| doer
+to achieve| alcançar; realizar
+to acquire| adquirir
+to act| agir
+to add| adicionar
+to address| endereçar
+to adjust| ajustar
+to admire| adminirar
+to admit| admitir
+to advise| aconselhar
+to afford| pagar; bancar
+to agree| concordar
+to alight| pousar
+to allow| permitir
+to animate| animar
+to announe| anunciar
+to answer| responder
+to apologize| desculpar
+to appear| aparecer
+to applaud| aplaudir
+to apply| aplicar
+to approach| abordar
+to approve| aprovar
+to argue| argumentar; discutir
+to arise| surgir
+to arrange| organizar; marcar
+to arrest| prender
+to ask| perguntar
+to assert| afirmar
+to assort| classificar
+to astonish| surpreender
+to attack| atacar
+to attend| prestar atenção
+to attract| atrair
+to audit| auditar
+to avoid| evitar
+to awake| despertar
+to bang| bater; golpear
+to banish| banir
+to bash| agredir; surrar
+to bat| espancar; bater
+to be| ser; estar
+to bear| suportar
+to beat| derrotar
+to beautity| embelezar
+to become| tornar-se
+to befall| suceder algo ruim
+to beg| implorar
+to begin| começar
+to behave| comportar-se
+to behold| ver; observar
+to believe| acreditar
+to belong| pertencer
+to bend | dobrar
+to bereave| ficar de luto
+to beseech| suplicar
+to bet| apostar
+to betray| trair
+to bid| ofertar; fazer lances
+to bind| vincular; ligar
+to bite| morder
+to bleed| sangrar
+to bless| abençoar
+to blossom| florescer
+to blow| explodir
+to blur| desfocar
+to blush| envergonhar-se
+to board| embarcar
+to boast| ostentar; gabar-se
+to boil| ferver
+to bow| curvar-se
+to box| encaixotar
+to break| quebrar
+to breathe| respirar
+
+
+
+
+
+to proffer| oferecer
 
 
 ## Verbos Irregulares
@@ -115,10 +204,6 @@ To think|	1. pensar; 2. achar|	thought|	thought|	1. I thought of him every day. 
 To understand|	entender|	understood|	understood|	They understood what I was saying.
 To win|	vencer|	won|	won|	I won the lottery.
 to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her 
-
-
-to shift
-to pick
 
 
 ## Adverbios
