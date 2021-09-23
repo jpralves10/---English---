@@ -55,6 +55,7 @@ To watch|	assistir|	watched|	watched|	They watched the game at the restaurant.
 To work|	trabalhar|	worked|	worked|	We worked together last year.
 to further| promover| furthered| furthered| He furthered a party to thousands people
 to lift| levantar| lifted| lifted| I lifted 7 o'clock
+to travel| viajar| traveled| traveled| To travel is part of the job
 
 
 ## Verbos Irregulares
@@ -116,7 +117,6 @@ To win|	vencer|	won|	won|	I won the lottery.
 to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her 
 
 
-to travel
 to shift
 to pick
 
@@ -134,6 +134,7 @@ to pick
 ## Substantivos
 
 `pick` escolha
+`Tricky` complicado
 
 ## Palavras sem Categoria
 
