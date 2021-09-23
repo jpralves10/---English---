@@ -59,6 +59,8 @@ to travel| viajar
 to shift| mudar
 to pick|  escolher
 
+Verbo     | Tradução 
+----------|----------
 to abash| envergonhar; inferiorizar
 to abate| diminuir
 to abide| acatar; respeitar
