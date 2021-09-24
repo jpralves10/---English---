@@ -141,7 +141,82 @@ to bow| curvar-se
 to box| encaixotar
 to break| quebrar
 to breathe| respirar
-
+to breed| procriar
+to bring| trazer
+to broadcast| transmitir
+to brush| escovar
+to build| construir
+to burn| queimar
+to burst| estourar; explodir
+to bury| enterrar
+to bust| fracassar
+to buy| comprar
+to buzz| zumbir
+to calculate| calcular
+to call| chamar; ligar
+to canvass| investigar; apurar
+to capture| capturar
+to caress| acariciar
+to carry| carregar
+to carve| esculpir
+to cash| descontar
+to cast| transmitir
+to catch| pegar
+to cause| causar
+to cease| cessar
+to celebrate| celebrar
+to challenge| desafiar
+to change| mudar
+to charge| carregar
+to chase| perseguir
+to chat| conversar
+to check| checar
+to cheer| animar; alegrar
+to chew| mastigar
+to chide| repreender
+to chip| lascar
+to choke| sufocar
+to choose| escolher
+to classify| classificar
+to clean| limpar
+to cleave| apegar
+to click| clicar
+to climb| escalar
+to cling| agarrar
+to close| fechar
+to clothe| vestir
+to clutch| apertar
+to collapse| desmoronar; desabar
+to collect| coletar
+to color| colorir
+to come| vir
+to comment| comentar
+to compare| comparar
+to compel| obrigar
+to compete| competir
+to complain| reclamar
+to complete| completar
+to conclude| concluir
+to conduct| conduzir
+to confess| confessar
+to confine| confinar
+to confiscate| confiscar
+to confuse| confundir
+to congratulate| parabenizar
+to connect| conectar
+to connote| conotar
+to conquer| conquistar
+to consecrate| consagrar
+to consent| consentir
+to conserve| conservar
+to consider| considerar
+to consign| consignar
+to consist| consistir
+to console| consolar
+to consort| associar; aliar
+to conspire| conspirar
+to constitute| constituir
+to constrain| restringir
 
 
 
@@ -217,12 +292,14 @@ to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her
 `nutty` maluco
 `crazy` louco
 `willing` disposto
+`blind` cego
 
 ## Substantivos
 
 `pick` escolha
 `Tricky` complicado
 `puppy` cachorro
+`cares` cuidados
 
 ## Palavras sem Categoria
 
