@@ -217,6 +217,79 @@ to consort| associar; aliar
 to conspire| conspirar
 to constitute| constituir
 to constrain| restringir
+to construct| construir
+to construe| interpretar
+to consult| consultar
+to contain| conter
+to contemn| desprezar; desdenhar
+to contend| argumentar
+to contest| contestar
+to continue| continuar
+to contract| contrair
+to contradict| contradizer
+to contrast| contrastar
+to contribute| contribuir
+to contrive| inventar; maquinar
+to control| controlar
+to convene| convocar
+to converge| convergir
+to converse| conversar
+to convert| converter
+to convey| transmitir
+to convict| condenar
+to convince| convencer
+to chill| relaxar
+to cook| cozinhar
+to cool| esfriar
+to cooperate| cooperar
+to cope| lidar
+to copy| copiar
+to correct| corrigir
+to correspond| corresponder
+to corrode| corroer
+to corrupt| corromper
+to cost| custar
+to cough| tossir
+to counsel| aconselhar
+to count| contar
+to course| percorrer
+to cover| cobrir
+to cower| encolher-se
+to crack| rachar
+to crackle| estalar
+to crash| falhar; acidentar
+to crave| almejar
+to create| criar
+to creep| assustar
+to crib| plagiar
+to cross| atravessar
+to crowd| aglomerar
+to crush| esmagar
+to cry| chorar
+to curse| almadiçoar
+to cure| curar
+to curve| curvar
+to cut| cortar
+to cycle| pedalar
+to damage| prejudicar; danificar
+to damp| umedecer
+to dance| dançar
+to dare| ousar
+to dash| correr
+to dazzle| deslumbrar
+to deal| lidar
+to dacay| apodrecer; decair
+to decide| decidir
+to declare| declarar
+to decorate| decorar
+to decrease| diminuir; reduzir
+to dedicate| dedicar
+to delay| atrasar
+to delete| deletar
+to deny| negar
+to depend| depender
+to deprive| privar
+
 
 
 
