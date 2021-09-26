@@ -374,6 +374,20 @@ to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her
 `puppy` cachorro
 `cares` cuidados
 
+## Conjunções
+ 
+`Though` no entanto, embora, entretanto
+`Although` apesar, embora
+`Even though` apesar de
+`However` contudo, entretanto
+`Despite` apesar de
+`in spite of` apesar de
+`instead of` em vez de
+`rather than` em vez de
+`while` enquanto
+`whereas` enquanto que
+
+
 ## Palavras sem Categoria
 
 `nods` acena com a cabeça
