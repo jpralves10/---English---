@@ -355,6 +355,10 @@ To understand|	entender|	understood|	understood|	They understood what I was sayi
 To win|	vencer|	won|	won|	I won the lottery.
 to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her 
 
+## Two-Words Verbs
+
+`miss out` perder
+
 
 ## Adverbios
 
