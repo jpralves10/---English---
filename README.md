@@ -1,7 +1,5 @@
 # ---English-2---
 
-![](https://github.com/jpralves10/---English-2---/blob/main/English%20Time.png)
-
 `each other` uns aos outros
 
 ## Verbos Regulares
