@@ -378,6 +378,138 @@ to hurt| 1. ferir; 2. machucar| hurt| hurt| He hurt the head her
 `puppy` cachorro
 `cares` cuidados
 
+liar 
+
+lousy 
+
+loser
+
+tough
+
+`Sad` agora, triste
+
+giving up - desistindo
+
+thought - pensei
+
+wanted - 
+
+tough - dificil
+
+Taught - ensinou
+
+youngsters - jovens
+
+Addiction - vício
+
+apologize - pedir desculpas
+
+busy - ocupado
+
+nowhere - lugar algum 
+
+shy - timido
+
+sake - interesse
+
+trait - traço; peculiaridade
+
+rewire - religar
+
+push yourself - esforçar-se
+
+every now and then - de vez em quando
+
+you rather - você prefere
+
+to crush - esmagar
+
+to commute - deslocar-se
+
+Headcount - quadro de funcionários
+
+gypsy - cigano
+
+earl - conde
+
+throughout - ao longo
+
+horsekeepers - cavaleiros
+
+craftsmen - artesãos
+
+fortuneteller - vidente
+
+settle - resolver
+
+loose - solto, largo
+
+tight - apertado, firme
+
+untidy - desarrumado
+
+fired - despedido, demitido
+
+earlier - adiantado, mais cedo
+
+motion - movimento
+
+Jobseekers - desempregados
+
+accent - sotaque
+
+wire - arame
+
+directness - franquesa
+
+weakness - fraquesa
+
+Hunters - caçadores
+
+towards - para, em direção a
+
+living things - seres vivos
+
+thus - portanto
+
+injuries - lesões
+
+diseases - doenças
+
+carefulness - cuidado
+
+lonely - sozinho
+
+loneliness - solidão
+
+crowded - lotado
+
+doubtful - duvidoso
+
+holding back - segurar
+
+pursing - perseguir
+
+relatives - parentes
+
+have been - houve, foi
+
+stupendous - estupendo
+
+pile - pilha
+
+slide - deslizar
+
+sometime - algum dia, as vezes
+
+dare - ousar
+
+mess - bagunça
+
+Aim - mirar
+
+sponsor - patrocinador
+
 ## Conjunções
  
 `Though` no entanto, embora, entretanto
